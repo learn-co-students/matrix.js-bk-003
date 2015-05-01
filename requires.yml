@@ -1,6 +1,6 @@
 # A list of javascript files required for the project, in dependency order
 javascripts:
   files:
-    - js/matrix.js
+    - lib/matrix.js
   specs:
     - spec/matrix.spec.js
