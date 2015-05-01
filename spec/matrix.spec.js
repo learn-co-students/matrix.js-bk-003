@@ -1,7 +1,5 @@
 'use strict';
 
-var Matrix = require('../lib/matrix');
-
 describe('Matrix', function () {
 
   it('can extract a row', function () {
